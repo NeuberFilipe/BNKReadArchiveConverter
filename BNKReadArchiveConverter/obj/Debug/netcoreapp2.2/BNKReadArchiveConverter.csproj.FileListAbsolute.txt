@@ -1,0 +1,11 @@
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\bin\Debug\netcoreapp2.2\BNKReadArchiveConverter.deps.json
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\bin\Debug\netcoreapp2.2\BNKReadArchiveConverter.runtimeconfig.json
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\bin\Debug\netcoreapp2.2\BNKReadArchiveConverter.runtimeconfig.dev.json
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\bin\Debug\netcoreapp2.2\BNKReadArchiveConverter.dll
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\bin\Debug\netcoreapp2.2\BNKReadArchiveConverter.pdb
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.csproj.CoreCompileInputs.cache
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.AssemblyInfoInputs.cache
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.AssemblyInfo.cs
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.dll
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.pdb
+C:\Users\neuber.coelho\source\repos\BNKReadArchiveConverter\BNKReadArchiveConverter\obj\Debug\netcoreapp2.2\BNKReadArchiveConverter.csprojAssemblyReference.cache
